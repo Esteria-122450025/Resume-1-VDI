@@ -37,10 +37,10 @@ Berikut ini gambar yang temasuk dalam kategori Bad Visualization.
 
 **1.  Areas That Are Difficult to Compare** 
 
-```
-Image Source : https://www.intotheminds.com/blog/app/uploads/bad-data-visualisation-
-imports.png
-```
+![bad-data-visualisation(1)](https://github.com/user-attachments/assets/f3a7f654-71ce-470f-bd1b-fd6ca915f927)
+
+Image Source : https://www.intotheminds.com/blog/app/uploads/bad-data-visualisation-imports.png
+
 Penjelasan :  
 
 Berikut ini alasan mengapa visualisasi **Areas that are difficult to compare** termasuk dalam kategori **bad visualization** (visualisasi yang buruk) berdasarkan keempat prinsip visualisasi data: 
