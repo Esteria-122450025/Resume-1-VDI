@@ -21,9 +21,10 @@ Penjelasan :
 
 **2.  Visualizing the History of Pandemics karya Nicholas LePan** 
 
-```
+![hostory of pandemic](https://github.com/user-attachments/assets/eee49e9d-7ee2-4332-bf60-32c7a6bf3d41)
+
 Image Source : _https://www.visualcapitalist.com/history-of-pandemics-deadliest/_
-```
+
 
 Penjelasan : 
 
