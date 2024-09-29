@@ -54,7 +54,7 @@ Berikut ini alasan mengapa visualisasi **Areas that are difficult to compare** t
 
 **2. Degree of thermal comfort**
 
-![bad-data-visualisation(1)](https://github.com/user-attachments/assets/f3a7f654-71ce-470f-bd1b-fd6ca915f927)
+![bad-data-visualisation-heatmap(2)](https://github.com/user-attachments/assets/d6360abb-201c-48fd-934e-7e4b13cfd3b2)
 
 Image Source : https://www.intotheminds.com/blog/app/uploads/bad-data-visualisation-heatmap.png
 
