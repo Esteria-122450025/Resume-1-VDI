@@ -53,10 +53,11 @@ Berikut ini alasan mengapa visualisasi **Areas that are difficult to compare** t
    **Solusi:** Seharusnya, dua skala dengan variabel kontinu digunakan, di mana **porsi gas** ditempatkan pada sumbu y dan **jumlah impor** pada sumbu x. Ini akan memungkinkan perbandingan yang lebih jelas dan akurat antara negara-negara, sehingga mempermudah interpretasi data dan meningkatkan fungsionalitas visualisasi. 
 
 **2. Degree of thermal comfort**
-```
-Image Source : https://www.intotheminds.com/blog/app/uploads/bad-data-visualisation-
-heatmap.png
-```
+
+![bad-data-visualisation(1)](https://github.com/user-attachments/assets/f3a7f654-71ce-470f-bd1b-fd6ca915f927)
+
+Image Source : https://www.intotheminds.com/blog/app/uploads/bad-data-visualisation-heatmap.png
+
 Penjelasan : 
 
 Berikut ini alasan mengapa visualisasi **“degree of thermal comfort”** pada peta tersebut termasuk dalam kategori **bad visualization**, berdasarkan empat prinsip visualisasi data: 
