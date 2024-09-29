@@ -8,8 +8,8 @@ Berikut ini gambar yang termasuk dalam kategori Good Visualization.
 
 **1.  Nasa’s Eyes On Asteroids** 
 
-![alt text](https://eyes.nasa.gov/apps/asteroids/#/home
-?raw=true)
+![alt text](https://eyes.nasa.gov/apps/asteroids/#/home?raw=true)
+
 Image Source : https://eyes.nasa.gov/apps/asteroids/#/home
 
 Penjelasan : 
