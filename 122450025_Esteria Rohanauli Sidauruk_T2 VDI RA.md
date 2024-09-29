@@ -8,9 +8,10 @@ Berikut ini gambar yang termasuk dalam kategori Good Visualization.
 
 **1.  Nasa’s Eyes On Asteroids** 
 
-```
+![alt text](https://eyes.nasa.gov/apps/asteroids/#/home
+?raw=true)
 Image Source : https://eyes.nasa.gov/apps/asteroids/#/home
-```
+
 Penjelasan : 
 
 1. **Mengutamamakan  bentuk  dan  fungsi  (Strive  for  form  and  function):** NASA’s Eyes on Asteroids berhasil menggabungkan bentuk dan fungsi dengan sangat baik. Dapat dilihat pada gambar diatas bahwa desainnya sangat menarik secara visual, dengan tampilan 3D yang modern dan canggih, namun tetap fungsional. Pengguna dapat dengan mudah menjelajahi asteroid dan objek lainnya dalam tata surya berkat antarmuka yang intuitif. Ini menunjukkan keseimbangan antara bentuk yang menarik dan fungsi yang efektif.
